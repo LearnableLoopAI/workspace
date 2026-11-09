@@ -1,0 +1,9 @@
+# import pdb
+# pdb.set_trace()
+
+jupyter
+matplotlib
+#pandas
+seaborn
+# pymdp
+inferactively-pymdp
